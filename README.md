@@ -1,5 +1,5 @@
 # ctf_working_directory
-=> a python tool for create the working directory of a ctf
+a python tool for create the working directory of a ctf
 
 
 ### what will create the script?
