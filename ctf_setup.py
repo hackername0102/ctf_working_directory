@@ -29,7 +29,7 @@ def main():
         sys.exit()
 
 if __name__ == "__main__":
-    if os.getuid() != 0:
+    if os.getuid() == 0:
         if len(sys.argv) == 3:
             main()
         else:
